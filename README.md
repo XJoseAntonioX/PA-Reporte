@@ -1,7 +1,7 @@
 # Proyecto Purple Air 
 
 <p align="center">
-  <img width="460" height="300" src="[https://picsum.photos/460/300](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlPz6XVM4qiGY_37VJA_ygvuli2WcyBTaoQ&s)">
+  <img width="460" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlPz6XVM4qiGY_37VJA_ygvuli2WcyBTaoQ&s">
 </p>
 
 _Última actualización: Agosto de 2024_

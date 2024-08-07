@@ -1,5 +1,7 @@
 # Proyecto Purple Air 
 
+![image](https://github.com/user-attachments/assets/ec46eab1-a45d-4ef8-ac0c-d6b5045ca00f)
+
 _Última actualización: Agosto de 2024_
 
 Lista de tareas:

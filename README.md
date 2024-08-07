@@ -1,6 +1,8 @@
 # Proyecto Purple Air 
 
-![image](https://github.com/user-attachments/assets/ec46eab1-a45d-4ef8-ac0c-d6b5045ca00f)
+<p align="center">
+  <img width="460" height="300" src="[https://picsum.photos/460/300](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlPz6XVM4qiGY_37VJA_ygvuli2WcyBTaoQ&s)">
+</p>
 
 _Última actualización: Agosto de 2024_
 

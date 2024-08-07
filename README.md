@@ -31,7 +31,7 @@ Si se desea concatenar los datos previamente requeridos con los consecuentes (y 
 2. Dar click al botón "Ejecutar Request"
 3. Repetir pasos 1 y 2 conforme a lo deseado 
 4. Dar click al botón de descarga
-5. Cancelar proceso de concatenación dandole clicl a "Clear cache" en el menú de la página.
+5. Cancelar proceso de concatenación dando click a "Clear cache" en el menú de la página.
 
 ![image](https://github.com/user-attachments/assets/55ce71e6-58a4-42dc-8003-5ebeb99da924)
 

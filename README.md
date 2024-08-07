@@ -8,7 +8,8 @@ A continuación se describirá el contenido y características de la página web
 
 ### Purple Air API
 
-**Petición de datos:** Este apartado es para solicitar datos a la API de los sensores ubicados en distintas regiones del estado. Se necesita llenar el formulario mostrado, mismo que se autorellena en ciertos campos tras rellenar manualmente otros. Hasta el momento solo se cuentan con las opciones de los municipios, sensores y columnas que han sido de intéres. En caso de hacer algún otro cambio de cualquier índole se necesitaría modificar el script de python correspondiente a la página web.
+**Petición de datos:** 
+Este apartado es para solicitar datos a la API de los sensores ubicados en distintas regiones del estado. Se necesita llenar el formulario mostrado, mismo que se autorellena en ciertos campos tras rellenar manualmente otros. Hasta el momento solo se cuentan con las opciones de los municipios, sensores y columnas que han sido de intéres. En caso de hacer algún otro cambio de cualquier índole se necesitaría modificar el script de python correspondiente a la página web.
 
 **Campos a rellenar:**
 - **Fecha y tiempo inicial:** Corresponden al momento de inicio donde se desean recolectar datos.
@@ -20,9 +21,17 @@ A continuación se describirá el contenido y características de la página web
 - **Indice del sensor:** Corresponde al índice del sensor en cuestión de donde se descargan los datos (Este campo se autorellena tras seleccionar el lugar de extracción).
 - **Opción para observar ID's de los sensores con los que ya se cuenta**
 
-**Uso:** Tras completar el forms se da click al botón "Ejecutar Request", se mostrará un informe de la información que se está requiriendo y, por último, un botón de descarga. Si se desea concatenar los datos previamente descargados con los consecuentes (y así sucesivamente) se debe rellenar el forms otra vez con estos mismos datos consecuentes y el resultado de la descarga va a ser el resultado de la concatenación. Es importante a notar que si el objetivo principal es ese entonces no es necesario hacer la descarga en cada iteración tras querer hacer la concatenación porque al final lo que hace posible este proceso es cuando das click al botón "Ejecutar Request". 
+**Uso:**
+1.- Completar el forms 
+2.- Dar click al botón "Ejecutar Request" 
+3.- Dar click al botón de descarga.
 
-Para dar por terminado este proceso de concatenación se debe dar clicken "Clear cache" en el siguiente menú de la página:
+Si se desea concatenar los datos previamente requeridos con los consecuentes (y así sucesivamente) se puede optar por: 
+1.- Completar el forms (Con datos consecuentes)
+2.- Dar click al botón "Ejecutar Request"
+3.- Repetir pasos 1 y 2 conforme a lo deseado 
+4.- Dar click al botón de descarga
+5.- Cancelar proceso de concatenación dandole clicl a "Clear cache" en el menú de la página.
 
 ![image](https://github.com/user-attachments/assets/55ce71e6-58a4-42dc-8003-5ebeb99da924)
 
@@ -49,8 +58,8 @@ Como se describe, esta parte es toda la información relevante del proyecto y es
 
 Cuenta con los siguientes contenidos, mismo que tienen los siguiente enfoques:
 - **Introducción:** Dar información breve del contexto del proyecto y su objetivo.
-- **Desarrollo:** Mostrar procesos y criterios tomados en cuenta para dar con los resultados deseados (Un mejor modelo de predicción), esto involucra, para dar una idea, mencionar el cambio de horario en datos de PA, el uso de los datos Emparejados (Dar una breve descripción de cómo se obtuvieron), el criterio para eliminar outliers, entre otros.
-- **Resultados:** Dar una representación visual de los resultados mostrados ("una imágen dice más que mil palabras") esto ayuda a quien sea a entender los resultados de manera más clara y en especial a los stakeholders con nula o bastante entendimiento técnico (por ejemplo a quienes les interese saber sobre el proyecto).
+- **Desarrollo:** Mostrar procesos y criterios tomados en cuenta para dar con los resultados deseados (Un mejor modelo de predicción), esto involucra mencionar el cambio de horario en datos de PA, el uso de los datos Emparejados (Dar una breve descripción de cómo se obtuvieron), el criterio para eliminar outliers, entre otros.
+- **Resultados:** Dar una representación visual de los resultados mostrados en la mayoría de lo posible ("una imágen dice más que mil palabras"), esto ayuda a quien sea a entender los resultados de manera más clara y, en especial, a los stakeholders con nulo o bastante entendimiento técnico (por ejemplo a quienes les interese saber sobre el proyecto).
 
 > [!IMPORTANT]
 > Por el momento es necesario seguir trabajando en este contenido.

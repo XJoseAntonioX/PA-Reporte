@@ -4,6 +4,10 @@ _Última actualización: Agosto de 2024_
 
 A continuación se describirá el contenido y características de la página web de Purple Air: [Purple Air](https://purpleairproject.streamlit.app/), que tiene como finalidad ser guía del enfoque y actualizaciones con las que cuenta el proyecto.
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 ## Contenidos
 
 ### Purple Air API

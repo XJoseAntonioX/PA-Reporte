@@ -5,7 +5,7 @@ _Última actualización: Agosto de 2024_
 Lista de tareas:
 - [x] Readme file github
 - [ ] Actualizar los datos de Emparejados
-- [ ] Trabajando en contenido de Documentación
+- [ ] Trabajar en contenido de Documentación
       
 A continuación se describirá el contenido y características de la página web de Purple Air: [Purple Air](https://purpleairproject.streamlit.app/), que tiene como finalidad ser guía del enfoque y actualizaciones con las que cuenta el proyecto.
 

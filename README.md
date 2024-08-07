@@ -31,9 +31,9 @@ Consideraciones para garantizar integridad de los datos: Siempre observar en el 
 Este apartados cuenta con secciones en las que vienen siendo nuestra base de datos actualizada y de utilidad para el avance del proyecto. Se omitará las características del contenido mostrado, puesto que es intuitivo y corto. 
 
 Solamente para hacer mención de los contenidos están:
-**- AireNL
-- Purple Air
-- Emparejados**
+- **AireNL**
+- **Purple Air**
+- **Emparejados**
 
 El último de todos son aquellos datos que surgen del merge adecuado entre datos de AireNL y PurpleAir. 
 

@@ -2,11 +2,12 @@
 
 _Última actualización: Agosto de 2024_
 
+Lista de tareas:
+- [x] Readme file github
+- [ ] Actualizar los datos de Emparejados
+- [ ] Trabajando en contenido de Documentación
+      
 A continuación se describirá el contenido y características de la página web de Purple Air: [Purple Air](https://purpleairproject.streamlit.app/), que tiene como finalidad ser guía del enfoque y actualizaciones con las que cuenta el proyecto.
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Contenidos
 
@@ -54,7 +55,7 @@ Solamente para hacer mención de los contenidos están:
 El último de todos son aquellos datos que surgen del merge adecuado entre datos de AireNL y PurpleAir. 
 
 > [!IMPORTANT]
-> Por el momento es necesario actualizar esto con los nuevos datos que se descargaron/se estén descargando de Purple Air.
+> Por el momento es necesario actualizar los datos de Emparejados.
 
 ### Documentación
 

@@ -50,7 +50,7 @@ Cuenta con los siguientes contenidos, mismo que tienen los siguiente enfoques:
 
 Por el momento es necesario seguir trabajando en este contenido.
 
-### Importante
+### $${\color{red} Importante}$$
 
 Lo descrito en esta guía no es absoluto, las ideas presentadas, formato y contenidos de las páginas, entre otros, no son reglas a seguir para determinan el correcto y mejor funcionamiento para cumplir con el objetivo deseado de la página. Consecuentemente se aconseja dar con nuevas propuestas que puedan mejorarla, de hacer los cambios correspondientes para ello, ya sea modificando scripts o esta guía, siempre procurando mantener buenas prácticas como mantener una copia de lo que se realiza. 
 

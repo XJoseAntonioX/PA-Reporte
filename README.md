@@ -54,12 +54,12 @@ El último de todos son aquellos datos que surgen del merge adecuado entre datos
 
 ### Documentación
 
-Como se describe, esta parte es toda la información relevante del proyecto y es recomendable mantener ese criterio en todo momento al igual que la brevedad de información que se debe disponer para no hacer larga la lectura que tenga algún usuario con respecto a la información y resultados del proyecto.
+Como se describe, esta parte es toda la información relevante del proyecto y es recomendable mantener ese criterio en todo momento al igual que la brevedad de información que se debe disponer para no hacer larga la lectura.
 
 Cuenta con los siguientes contenidos, mismo que tienen los siguiente enfoques:
 - **Introducción:** Dar información breve del contexto del proyecto y su objetivo.
 - **Desarrollo:** Mostrar procesos y criterios tomados en cuenta para dar con los resultados deseados (Un mejor modelo de predicción), esto involucra mencionar el cambio de horario en datos de PA, el uso de los datos Emparejados (Dar una breve descripción de cómo se obtuvieron), el criterio para eliminar outliers, entre otros.
-- **Resultados:** Dar una representación visual de los resultados mostrados en la mayoría de lo posible ("una imágen dice más que mil palabras"), esto ayuda a quien sea a entender los resultados de manera más clara y, en especial, a los stakeholders con nulo o bastante entendimiento técnico (por ejemplo a quienes les interese saber sobre el proyecto).
+- **Resultados:** Dar una representación visual de los resultados mostrados en la mayoría de lo posible ("una imágen dice más que mil palabras").
 
 > [!IMPORTANT]
 > Por el momento es necesario seguir trabajando en este contenido.

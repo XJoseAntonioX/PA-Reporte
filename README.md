@@ -37,7 +37,7 @@ Solamente para hacer mención de los contenidos están:
 
 El último de todos son aquellos datos que surgen del merge adecuado entre datos de AireNL y PurpleAir. 
 
-$${\color{yellow} Por el momento es necesario actualizar esto con los nuevos datos que se descargaron/se estén descargando de Purple Air.}$$
+${\color{yellow} Por el momento es necesario actualizar esto con los nuevos datos que se descargaron/se estén descargando de Purple Air.}$
 
 ### Documentación
 
@@ -48,7 +48,7 @@ Cuenta con los siguientes contenidos, mismo que tienen los siguiente enfoques:
 - **Desarrollo:** Mostrar procesos y criterios tomados en cuenta para dar con los resultados deseados (Un mejor modelo de predicción), esto involucra, para dar una idea, mencionar el cambio de horario en datos de PA, el uso de los datos Emparejados (Dar una breve descripción de cómo se obtuvieron), el criterio para eliminar outliers, entre otros.
 - **Resultados:** Dar una representación visual de los resultados mostrados ("una imágen dice más que mil palabras") esto ayuda a quien sea a entender los resultados de manera más clara y en especial a los stakeholders con nula o bastante entendimiento técnico (por ejemplo a quienes les interese saber sobre el proyecto).
 
-$${\color{yellow} Por el momento es necesario seguir trabajando en este contenido.}$$
+${\color{yellow} Por el momento es necesario seguir trabajando en este contenido.}$
 
 ### $${\color{red} Importante}$$
 

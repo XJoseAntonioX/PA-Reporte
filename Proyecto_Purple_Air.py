@@ -2,7 +2,7 @@ import streamlit as st
 
 API_PA = st.Page("API_PA/Peticion.py", title="Petición de datos")
 
-AireLNL = st.Page("Downloads/AireNL.py", title="AireLNL")
+AireLNL = st.Page("Downloads/AireNL.py", title="AireNL")
 
 PurpleAir = st.Page("Downloads/PurpleAir.py", title="Purple Air")
 

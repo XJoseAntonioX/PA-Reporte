@@ -8,7 +8,7 @@ A continuación se describirá el contenido y características de la página web
 
 Petición de datos: Este apartado es para solicitar datos a la API de los sensores ubicados en distintas regiones del estado. Se necesita llenar el formulario mostrado, mismo que se autorellena en ciertos campos tras rellenar manualmente otros. Hasta el momento solo se cuentan con las opciones de los municipios, sensores y columnas que han sido de intéres hasta la fecha (Agosto de 2024). En caso de hacer algún otro cambio de cualquier índole se necesitaría modificar el script de python correspondiente a la página web.
 
-Campos a rellenar:
+**Campos a rellenar:**
 - Fecha y tiempo inicial: Corresponden al momento de inicio donde se desean recolectar datos.
 - Fecha y tiempo final: Corresponden al momento final donde se desean recolectar datos.
 - Lugar de donde se extraeran datos: Como se indica, definir el lugar de la descarga.

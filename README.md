@@ -10,7 +10,7 @@ A continuación se describirá el contenido y características de la página web
 
 **Campos a rellenar:**
 - **Fecha y tiempo inicial:** Corresponden al momento de inicio donde se desean recolectar datos.
-- **Fecha y tiempo final: ** Corresponden al momento final donde se desean recolectar datos.
+- **Fecha y tiempo final:** Corresponden al momento final donde se desean recolectar datos.
 - **Lugar de donde se extraeran datos:** Como se indica, definir el lugar de la descarga.
 - **Columnas de intéres:** Corresponden a aquellos datos de intéres a descargar de los sensores (Checar API si se requieren agregar otros).
 - **API key:** Aquella llave que posiibilita la descarga de datos (Se debe de haber creado en [API key](https://www.google.com/url?q=https%3A%2F%2Fdevelop.purpleair.com%2F).

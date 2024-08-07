@@ -11,7 +11,7 @@ A continuación se describirá el contenido y características de la página web
 
 ## Contenidos
 
-### Purple Air API
+### 🟣 Purple Air API
 
 **Petición de datos:** 
 Este apartado es para solicitar datos a la API de los sensores ubicados en distintas regiones del estado. Se necesita llenar el formulario mostrado, mismo que se autorellena en ciertos campos tras rellenar manualmente otros. Hasta el momento solo se cuentan con las opciones de los municipios, sensores y columnas que han sido de intéres. En caso de hacer algún otro cambio de cualquier índole se necesitaría modificar el script de python correspondiente a la página web.
@@ -43,7 +43,7 @@ Si se desea concatenar los datos previamente requeridos con los consecuentes (y 
 > [!CAUTION]
 > Siempre observar en el informe que efectivamente no hay ninguna discrepancia, y más al momento de concatenar puesto que se debe de verificar que los registros vayan aumentando.
 
-### Descarga de documentos
+### 📄 Descarga de documentos
 
 Este apartados cuenta con secciones en las que vienen siendo nuestra base de datos actualizada y de utilidad para el avance del proyecto. Se omitará las características del contenido mostrado, puesto que es intuitivo y corto. 
 
@@ -57,7 +57,7 @@ El último de todos son aquellos datos que surgen del merge adecuado entre datos
 > [!IMPORTANT]
 > Por el momento es necesario actualizar los datos de Emparejados.
 
-### Documentación
+### 📊 Documentación
 
 Como se describe, esta parte es toda la información relevante del proyecto y es recomendable mantener ese criterio en todo momento al igual que la brevedad de información que se debe disponer para no hacer larga la lectura.
 
